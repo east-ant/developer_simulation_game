@@ -1,0 +1,31 @@
+자바(Java)에서 int 타입 변수는 소수점을 포함할 수 있다.
+C언어에서 문자열(string)은 기본 자료형(primitive type)에 해당한다.
+자바에서 System.out.println("Hello");는 콘솔에 “Hello”를 출력한 뒤 줄 바꿈을 수행한다.
+변수 이름(identifier)은 숫자로 시작할 수 있다.
+자바에서 final 키워드를 붙이면 해당 변수의 값을 변경할 수 없다.
+C언어에서 for(int i = 0; i < 5; i++) { ... } 구문은 총 5번 반복된다.
+자바에서 배열을 선언할 때 int[] arr = new int[5];로 하면 크기가 4인 배열이 생성된다.
+자바 메서드 선언 시 반환 타입(return type)이 void이면 값을 반드시 return해야 한다.
+if (조건식) { ... } else { ... } 구문에서는 else 없이도 사용할 수 있다.
+자바에서 == 연산자는 객체의 내용을 비교할 때 사용한다.
+C언어에서 주석(comment)은 // 이건 주석 또는 /* 이건 주석 */ 형태로 작성할 수 있다.
+자바에서 String은 기본 자료형(primitive type)이다.
+while 반복문은 조건식이 처음부터 거짓(false)이면 한 번도 실행되지 않을 수 있다.
+C언어에서 헤더 파일을 포함할 때 #include <stdio.h>와 같이 꺽쇠 괄호(<>)를 사용하면 표준 라이브러리를 포함한다.
+자바에서 클래스명(class name)은 반드시 대문자로 시작해야만 한다.
+C언어에서 printf("%d", 3.14);를 실행하면 3.14가 그대로 출력된다.
+자바에서 null은 참조(reference)가 어떤 객체도 가리키지 않음을 의미한다.
+자바에서 switch문은 double 타입 변수로 분기할 수 있다.
+break 문은 반복문 내에서만 사용할 수 있고, switch문에는 사용할 수 없다.
+자바에서 Math.sqrt(9)는 3.0을 반환한다.
+C언어에서 int a = 5; int b = a++;를 실행하면 b의 값은 6이다.
+자바에서 ArrayList<String> list = new ArrayList<>();는 문자열을 저장할 수 있는 동적 배열을 생성한다.
+메서드 오버로딩(Method Overloading)은 메서드 이름이 같고, 매개변수 리스트(Parameter List)도 동일해야만 성립한다.
+자바에서 String 객체는 한 번 생성되면 내부 문자열을 변경할 수 없다(immutable).
+C언어에서 포인터(pointer)는 변수의 메모리 주소를 저장한다.
+자바에서 예외(Exception)를 처리할 때 try { ... } catch (Exception e) { ... } finally { ... } 구문을 사용할 수 있다.
+for (int i = 0; i < 3; i--) { ... }와 같은 구문은 무한 루프(Infinite Loop)에 빠질 수 있다.
+C언어에서 malloc() 함수는 할당된 메모리의 초기화까지 자동으로 수행한다.
+자바에서 클래스 안에 static 키워드가 붙은 변수는 해당 클래스의 모든 인스턴스가 공유한다.
+자바에서 equals() 메서드는 두 문자열(String)의 내용을 비교할 때 사용한다.
+
